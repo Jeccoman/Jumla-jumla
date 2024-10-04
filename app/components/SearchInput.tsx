@@ -27,7 +27,7 @@ export default function SearchInput() {
         className="flex-grow"
       />
       <Button type="submit" size="icon">
-        <Search className="h-4 w-4" />
+        <Search className="h-4 w-4 " />
         <span className="sr-only">Search</span>
       </Button>
     </form>
